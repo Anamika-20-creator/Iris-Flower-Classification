@@ -8,20 +8,19 @@ To analyze the Iris dataset and find patterns in flower species measurements.
 
 
 Dataset Contains :- 
-
 sepal length, sepal width, petal length, petal width, and species.
 
 
 Tools Used:- 
--Python -Pandas -Matplotlib -Seaborn
+  -Python -Pandas -Matplotlib -Seaborn
 
 
 Steps:- 
--Data cleaning -Exploratory Data Analysis (EDA) -Visualization
+  -Data cleaning -Exploratory Data Analysis (EDA) -Visualization
 
 
 Insights:-
--Species differ by petal size -Setosa is easily identifiable -Versicolor and Virginica have some overlap
+  -Species differ by petal size -Setosa is easily identifiable -Versicolor and Virginica have some overlap
 
 
 Conclusion
