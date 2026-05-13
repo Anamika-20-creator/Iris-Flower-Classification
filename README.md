@@ -7,8 +7,8 @@ Iris-Flower-Classification-Project
 To analyze the Iris dataset and find patterns in flower species measurements.
 
 
-Dataset
-Contains sepal length, sepal width, petal length, petal width, and species.
+Dataset Contains 
+sepal length, sepal width, petal length, petal width, and species.
 
 
 Tools Used
