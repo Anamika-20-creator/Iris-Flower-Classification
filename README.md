@@ -1,7 +1,3 @@
-# Iris-Flower-Classification
-"An Exploratory Data Analysis and classification project on the Iris dataset using Python and Google Colab"
-
-
 Iris-Flower-Classification-Project
 
 To analyze the Iris dataset and find patterns in flower species measurements.
