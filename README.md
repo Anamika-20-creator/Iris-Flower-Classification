@@ -33,6 +33,15 @@ Insights
 
 ° Versicolor and Virginica have some overlap, making them harder to distinguish by measurements alone.
 
+Project Overview
+
+This project uses the classic Iris Dataset to classify flowers into three species based on measurements.
+
+Tech Stack
+
+Language: Python.
+Tools: Google Colab, Pandas, and Kaggle API.
+
 Conclusion
 
 The project reveals distinct physical characteristics that define each Iris species.
