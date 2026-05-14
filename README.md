@@ -1,4 +1,4 @@
-Iris-Flower-Classification-Project
+3Iris-Flower-Classification-Project
 
 To analyze the Iris dataset and find patterns in flower species measurements.
 
@@ -41,6 +41,9 @@ Tech Stack
 
 Language: Python,
 Tools: Google Colab, Pandas, and Kaggle API.
+
+Author
+Anamika.M
 
 Conclusion
 
