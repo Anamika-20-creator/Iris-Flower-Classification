@@ -2,22 +2,32 @@ Iris-Flower-Classification-Project
 
 To analyze the Iris dataset and find patterns in flower species measurements.
 
+Dataset Contains
+° Sepal length
+° Sepal width
+° Petal length
+° Petal width
+° Species
 
-Dataset Contains :- 
-sepal length, sepal width, petal length, petal width, and species.
+Tools Used
+° Python
+° Pandas
+° Matplotlib
+° Seaborn
 
+Steps
+1.Data cleaning: Ensuring no null values or inconsistencies.
 
-Tools Used:- 
-  -Python -Pandas -Matplotlib -Seaborn
+2.Exploratory Data Analysis (EDA): Understanding the statistical distribution of the features.
 
+3.Visualization: Using plots to identify trends.
 
-Steps:- 
-  -Data cleaning -Exploratory Data Analysis (EDA) -Visualization
+Insights
+° Species differ significantly by petal size.
 
+° Setosa is easily identifiable as it clusters    separately.
 
-Insights:-
-  -Species differ by petal size -Setosa is easily identifiable -Versicolor and Virginica have some overlap
+° Versicolor and Virginica have some overlap, making them harder to distinguish by measurements alone.
 
-
-Conclusion:-
+Conclusion
 The project reveals distinct physical characteristics that define each Iris species.
