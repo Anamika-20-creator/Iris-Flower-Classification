@@ -1,4 +1,4 @@
-3Iris-Flower-Classification-Project
+Iris-Flower-Classification-Project
 
 To analyze the Iris dataset and find patterns in flower species measurements.
 
