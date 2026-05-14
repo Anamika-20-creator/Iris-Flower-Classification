@@ -39,7 +39,7 @@ This project uses the classic Iris Dataset to classify flowers into three specie
 
 Tech Stack
 
-Language: Python.
+Language: Python,
 Tools: Google Colab, Pandas, and Kaggle API.
 
 Conclusion
